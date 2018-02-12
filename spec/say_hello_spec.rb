@@ -13,7 +13,4 @@ describe "say_hello" do
   end
 end
 
-def say_hello(name = "Hello Ruby Programmer!")
-end
-
-say_hello("Ervin")
+say_hello(name=)
